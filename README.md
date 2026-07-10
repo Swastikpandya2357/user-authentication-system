@@ -192,5 +192,5 @@ python manage.py test authentication
 
 ## 👨‍💻 Built By
 
-**Swastik Pandya** — Portfolio Project  
+**Swastik Pandya** — Internship Project  
 *User Authentication System | Django, React, Node.js, PostgreSQL, MySQL*
